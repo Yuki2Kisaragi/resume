@@ -51,18 +51,6 @@
 
 ### OSS・個人開発活動
 
-### 技術記事投稿
-
-- **Zenn**
-  - サービススタートから投稿を開始。2024/04 現在 112 記事、 8,010LIKE
-  - [https://zenn.dev/ryo_kawamata](https://zenn.dev/ryo_kawamata)
-- **Qiita**
-  - 消防士時代から投稿を続け 2022/10 現在、143 記事、 17,551LGTM
-  - [https://qiita.com/ryo2132](https://qiita.com/ryo2132)
-- **note**
-  - 主に月報を記載。2020/04 現在 , 23 記事、 1,068 いいね
-  - [https://note.com/ryo_kawamata](https://note.com/ryo_kawamata)
-
 ### その他
 
 ---
