@@ -1,8 +1,8 @@
 # 職務経歴書
 
-<p style="text-align: right">2024年 6月 13日現在</p>
+<p style="text-align: right">2025年 1月 15日現在</p>
 <p style="text-align: right">氏名 下野 真弘</p>
-<p style="text-align: right">生年月日  1995年8月13日 (28歳)</p>
+<p style="text-align: right">生年月日  1995年8月13日 (29歳)</p>
 
 ## **■ キャリアプロフィール**
 
