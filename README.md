@@ -4,4 +4,4 @@
 
 ## 備考
 
-このレポジトリは[Yuki2Kisaragi 氏のレポジトリ](https://github.com/Yuki2Kisaragi/resume)を fork して作成しております。
+このレポジトリは[kawamataryo 氏のレポジトリ](https://github.com/kawamataryo/resume)を fork して作成しております。
