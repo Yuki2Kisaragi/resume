@@ -1,14 +1,14 @@
 {
   "name": "resume",
   "version": "1.0.0",
-  "description": "kawamataryoの職務経歴書",
+  "description": "Yuki2Kisaragiの職務経歴書",
   "scripts": {
     "lint": "textlint docs/README.md",
     "build:pdf": "md-to-pdf docs/README.md --config-file ./pdf-configs/config.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/kawamataryo/resume.git"
+    "url": "git+ssh://git@github.com/Yuki2Kisaragi/resume.git"
   },
   "keywords": [],
   "author": "Ryo Kawamata <ba068082@gmail.com>",

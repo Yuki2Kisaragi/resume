@@ -37,4 +37,4 @@ $ git push origin --tags
 
 GitHub Actions の schedule trigger で 3 ヶ月に 1 回、職務経歴書の内容更新を促す issue が自動生成されます。
 
-期間の変更、Job の停止は[.github/workflows/create-issue.yml](https://github.com/kawamataryo/resume/blob/master/.github/workflows/create-issue.yml) を編集してください。
+期間の変更、Job の停止は[.github/workflows/create-issue.yml](https://github.com/Yuki2Kisaragi/resume/blob/master/.github/workflows/create-issue.yml) を編集してください。
