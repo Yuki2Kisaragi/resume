@@ -1,6 +1,6 @@
 # yuki2kisaragi(Masahiro Shimono)'s resume
 
-[職務経歴書はこちら](https://github.com/Yuki2Kisaragi/resume/tree/master/docs#readme)
+[職務経歴書はこちら](https://yuki2kisaragi.github.io/resume/)
 
 ## 備考
 
